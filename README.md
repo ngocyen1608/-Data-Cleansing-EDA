@@ -28,9 +28,9 @@ Provide detailed information and an overview of the company's business situation
 ## III. Visualization
 ### 1. Overview
 ![](https://github.com/user-attachments/assets/6ec73f22-ae02-4a9a-a2f5-9bd0885fa55f)
-### 2. Product analyst
+### 2. Product 
 ![](https://github.com/user-attachments/assets/7656a272-609e-4469-bb82-eb63ac4b9abd)
-### 3. Customer analyst
+### 3. Customer 
 ![](https://github.com/user-attachments/assets/c3053900-97ec-457a-86c7-805e180d7372)
 ## IV. Insights
 1, Our top 5 biggest markets are: APAC, LATAM, EU, US, EMEA.
